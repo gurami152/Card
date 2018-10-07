@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1538920184 source:c:\users\Δενθρ\desktop\card\main.cpp
+	<iostream>
+	<string>
+	<cstdlib>
+	<ctime>
+
